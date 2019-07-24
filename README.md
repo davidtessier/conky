@@ -1,5 +1,4 @@
-# conky
-My conky configuration
+# My conky configuration
 
 On Ubuntu, install Conky with the following commands: 
 ```
@@ -16,3 +15,6 @@ Then, replace the contents of `/etc/conky/conky.conf` with the contents of the c
 ```
 sudo gedit /etc/conky/conky.conf
 ```
+# Screenshot
+
+![Conky Screenshot](https://github.com/davidtessier/conky/blob/master/Screenshot%20from%202019-07-24%2016-14-53.png)
