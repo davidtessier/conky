@@ -11,7 +11,7 @@ Then, backup the default conky.conf file:
 sudo cp /etc/conky/conky.conf /etc/conky/conky.conf.bak
 ```
 
-Then, replace the contents of `/etc/conky/conky.conf` with the contents of the conky.conf file from this repository. 
+Then, replace the contents of `/etc/conky/conky.conf` with the contents of the ![conky.conf](https://github.com/davidtessier/conky/blob/master/conky.conf) file from this repository. 
 ```
 sudo gedit /etc/conky/conky.conf
 ```
