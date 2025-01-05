@@ -19,6 +19,9 @@ sudo gedit /etc/conky/conky.conf
 
 ![Conky Screenshot](https://github.com/davidtessier/conky/blob/master/Screenshot%20from%202019-07-24%2016-14-53.png)
 
+![image](https://github.com/user-attachments/assets/66ad9d98-ca32-40ce-8b66-b5f422dc2ad9)
+
+
 # Set Conky To Start At Boot
 Conky only becomes useful when it is set to start up at boot. Here's how in Ubuntu and the various respins.
 
